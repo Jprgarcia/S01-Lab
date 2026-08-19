@@ -1,1 +1,1 @@
-'[Link Text](https://onecompiler.com/basic/44ypqnesp)
+https://onecompiler.com/basic/44ypqnesp
