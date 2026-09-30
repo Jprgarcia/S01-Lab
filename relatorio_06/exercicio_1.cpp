@@ -30,7 +30,6 @@ int main() {
     banda2.potenciaSom = 40.0;
     banda2.energia = 100;
 
-    // banda1 ataca banda2
     banda1.duelar(banda2);
 
     cout << "\n--- Status apos o duelo ---\n";
