@@ -56,7 +56,7 @@ hiroko.convocar(kousei)
 
 hiroko.reger("Introdução e Rondo Capriccioso - Saint-Saëns")
 
-puts "\n=== Escalação Oficial ==="
+puts
 hiroko.escalacao.each do |texto|
   puts texto
 end
